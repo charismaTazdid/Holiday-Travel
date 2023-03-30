@@ -1,0 +1,353 @@
+[
+    {
+        "id":1,
+        "name": "Triple Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-1-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/03/breadcrumb-bg.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-8-1000x1000.jpg?1678593808183", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-10-1000x1000.jpg?1678593798824", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678593799476"],
+        "capacity": "3",
+        "ratings": "4.13",
+        "locate": "London",
+        "price": "33.0",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name": "Duplex Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-3-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/03/breadcrumb-bg.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-8-1000x1000.jpg?1678593808183", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-10-1000x1000.jpg?1678593798824", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678593799476"],
+        "capacity": "4",
+        "ratings": "4.00",
+        "locate": "France",
+        "price": "27.1",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name": "Suite Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-2-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/03/breadcrumb-bg.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-8-1000x1000.jpg?1678593808183", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-10-1000x1000.jpg?1678593798824", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678593799476"],
+        "capacity": "2",
+        "ratings": "5.00",
+        "locate": "Australia",
+        "price": "17.2",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name": "Twin Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-7-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/03/breadcrumb-bg.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-8-1000x1000.jpg?1678593808183", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-10-1000x1000.jpg?1678593798824", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678593799476"],
+        "capacity": "2",
+        "ratings": "5.00",
+        "locate": "Australia",
+        "price": "27.3",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name": "Triple Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-5-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/03/breadcrumb-bg.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-8-1000x1000.jpg?1678593808183", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-10-1000x1000.jpg?1678593798824", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678593799476"],
+        "capacity": "3",
+        "ratings": "4.78",
+        "locate": "France",
+        "price": "27.4",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name": "Family Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-4-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/03/breadcrumb-bg.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-8-1000x1000.jpg?1678593808183", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-10-1000x1000.jpg?1678593798824", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678593799476"],
+        "capacity": "4",
+        "ratings": "4.45",
+        "locate": "Australia",
+        "price": "29.5",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name": "Deluxe Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-2-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/03/breadcrumb-bg.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-8-1000x1000.jpg?1678593808183", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-10-1000x1000.jpg?1678593798824", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678593799476"],
+        "capacity": "2",
+        "ratings": "4.12",
+        "locate": "France",
+        "price": "47.5",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name": "Luxury Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-3-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/03/breadcrumb-bg.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-8-1000x1000.jpg?1678593808183", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-10-1000x1000.jpg?1678593798824", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678593799476"],
+        "capacity": "2",
+        "ratings": "5.00",
+        "locate": "Australia",
+        "price": "34.5",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name": "Single Room",
+        "img": "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-1-750x500.jpg",
+        "banner": "https://dtora.wpengine.com/wp-content/uploads/2019/05/breadcrumb-bg3.jpg",
+        "bannerSlid": ["https://dtora.wpengine.com/wp-content/uploads/2019/03/room-6-1000x1000.jpg?1678030121638", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-9-1000x1000.jpg?1678030131398", "https://dtora.wpengine.com/wp-content/uploads/2019/03/room-2-1000x1000.jpg?1678030118235"],
+        "capacity": "1",
+        "ratings": "4.09",
+        "locate": "France",
+        "price": "17.5",
+        "street": "8127 Myrtle Street, Muncie, IN 47302",
+        "des": "Vivamus lectus turpis, consectetur at fermentum a, consectetur quis orci. Donec porta lorem vitae elit iaculis facilisis. Donec turpis nulla, porttitor sit amet placerat aliquam, ullamcorper in erat. Pellentesque eget tempor mi. Proin vehicula mi sed lorem lacinia, ac tincidunt dolor efficitur. Proin metus mi, rhoncus non purus nec, fringilla ullamcorper orci. Pellentesque in purus nulla. Suspendisse pulvinar nibh vel turpis sodales molestie. Quisque ipsum risus, facilisis nec venenatis sit amet, consectetur et lorem. Curabitur quis volutpat felis, sed varius enim. Pellentesque faucibus turpis vel enim imperdiet gravida. Phasellus nec odio vulputate, interdum lorem a, feugiat libero. Aliquam convallis in est vel posuere. Etiam vitae bibendum tellus. Fusce ullamcorper lectus scelerisque orci interdum maximus. Pellentesque placerat egestas ante in laoreet.",
+        "facility": [
+            {
+                "title": "FULLY FURNISHED",
+                "des": "With LED TV’s & Sofas"
+            },
+            {
+                "title": "CUSTOM FOOD",
+                "des": "Free Morning Breakfast"
+            },
+            {
+                "title": "MODERN BATHROOM",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "FREE WI-FI OPTION",
+                "des": "Enjoy your world as you like"
+            },
+            {
+                "title": "SWIMMIN POOL ACCESS",
+                "des": "Full Day time access"
+            },
+            {
+                "title": "FREE LOCAL COMMUTE",
+                "des": "Enjoy your world as you like"
+            }
+        ]
+    }
+]
